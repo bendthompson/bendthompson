@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **ben97thompson@gmail.com**
 
-- ⚡ Fun fact **I'm fluent in British Sign Language 🙌**
+- ⚡ Fun fact *I'm fluent in British Sign Language 🙌*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
