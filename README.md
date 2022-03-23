@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
-<h3 align="center">I'm a Data Scientist in Tokyo, originally from Scotland. 
-  I really enjoy using my Maths and Stats background to intelligently approach Machine learning problems.</h3>
+<h4 align="center">I'm a Data Scientist in Tokyo, originally from Scotland. </h4>
+<h4 align="center">I really enjoy using my Maths and Stats background to intelligently approach Machine learning problems. </h4>
 
 - 🔭 I’m currently working on: **Twinner**
 
