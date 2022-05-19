@@ -2,7 +2,7 @@
 <h4 align="center">I'm a Japan based Data Scientist from Scotland </h4>
 <h4 align="center">I really enjoy using my Maths and Stats background to intelligently approach Machine learning problems. </h4>
 
-- 🔭 I’m currently working on: **Sign Language Immage CLassification**
+- 🔭 I’m currently working on: **Sign Language Image Classification**
 
 - 👨‍💻 You can see my project portfolio at [troopl](troopl) and some project repos below 👇
 
