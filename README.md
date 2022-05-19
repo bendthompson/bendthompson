@@ -20,7 +20,7 @@
 
  [Above : Bash, Docker, Google Cloud Platform, Github, Heroku, Pandas, Python, PyTorch, ScikitLearn, Seaborn, TensorFlow]
  
-# Some Projects
+## Some Projects [Repos below]
 
 ### MiniMozart 🎼✍️
 Created a tool to assist writing piano melodies by modelling Mozart music with RNN's in a team of 3.
