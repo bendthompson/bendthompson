@@ -17,7 +17,7 @@
 
  [Above : Bash, Docker, Google Cloud Platform, Github, Heroku, Pandas, Python, PyTorch, ScikitLearn, Seaborn, TensorFlow]
  
-## Some Projects [Repos below]
+<!-- ## Some Projects [Repos below]
 
 ### MiniMozart 🎼✍️
 Created a tool to assist writing piano melodies by modelling Mozart music with RNN's in a team of 3.
@@ -65,3 +65,4 @@ Explored the London Fire Brigades incident response times from the start of the 
 🚒      Stretched myself with creating highly customised plots with Matplotlib
 
 ⏱️      Learned Geopandas to handle GeoJson's and create Choropleth Map Plots
+ -->
