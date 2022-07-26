@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 <h4 align="center">I'm a Japan based Data Scientist from Scotland </h4>
-<h4 align="center">I really enjoy using my Maths and Stats background to intelligently approach Machine learning problems. </h4>
+<h4 align="center">I really enjoy using my Maths and Stats background to intelligently approach Machine Learning problems. </h4>
 
 - 🔭 I’m currently working on: **Sign Language Image Classification**
 
