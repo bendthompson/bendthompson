@@ -2,9 +2,9 @@
 <h4 align="center">I'm a Japan based Data Scientist from Scotland </h4>
 <h4 align="center">I really enjoy using my Maths and Stats background to intelligently approach Machine Learning problems. </h4>
 
-- 🔭 I’m currently working on: **Sign Language Image Classification**
+- 🔭 I last worked on: **Sign Language Image Classification**
 
-- 👨‍💻 You can see my project portfolio at [troopl](troopl) and some project repos below 👇
+- 👨‍💻 You can see my project portfolio at [troopl](https://troopl.com/ben) and some project repos below 👇
 
 - 📫 How to reach me: **ben97thompson@gmail.com**
 
