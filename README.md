@@ -8,8 +8,6 @@
 
 - 📫 How to reach me: **ben97thompson@gmail.com**
 
-- ⚡ Fun fact: *I'm fluent in British Sign Language 🙌*
-
 - ✨ <text align="left">Connect with me:</text> [LinkedIn](https://www.linkedin.com/in/ben-d-thompson/)<a href="https://linkedin.com/in/ben-d-thompson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ben-d-thompson" height="20" width="35" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
