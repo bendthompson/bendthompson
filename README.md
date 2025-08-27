@@ -9,8 +9,8 @@
 </h4>
 
 ---
-
-## Public Projects
+<details markdown="1">
+<summary> <h2> Public Projects (5) </h2> </summary>
 
 ### Sign Language Processing
 
@@ -42,11 +42,14 @@ Created a tool to assist writing piano melodies by modelling Mozart music with R
 
 #### 🔥🚒 London Fire Response Times - Personal Project [2022]
 Got familiar with GeoJSON data and GeoPandas by analysing the London Fire Brigades incident response times across the 32 London boroughs from 2010 to 2021.
+
 - Github Repo: [london-fires](https://github.com/bendthompson/london-fires)
 - Analysis Report: [Slides on portfolio page](https://troopl.com/ben/london-fire-response-times---data-analysis--visualisation)
 
 #### 📽️🍿 Cinema Times - Personal Project [2022]
 Used web scraping and called API's to source data for my frequently visited cinemas in Tokyo & Saitama, and created an interactive web app with Streamlit.
+
 - Github Repo: [cinema-times](https://github.com/bendthompson/cinema-times)
 - Web App: [*Offline*](https://cinema-times-scraper.herokuapp.com/)
 
+</details>
