@@ -9,7 +9,7 @@
 </h4>
 
 ---
-<!-- <details markdown="1">
+<details markdown="1">
 <summary> <h2> Public Projects (5) </h2> </summary>
 
 ### Sign Language Processing
@@ -52,4 +52,4 @@ Used web scraping and called API's to source data for my frequently visited cine
 - Github Repo: [cinema-times](https://github.com/bendthompson/cinema-times)
 - Web App: [*Offline*](https://cinema-times-scraper.herokuapp.com/)
 
-</details> -->
+</details>
